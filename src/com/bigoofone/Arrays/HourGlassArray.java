@@ -1,4 +1,4 @@
-package com.bigoofone;
+package com.bigoofone.Arrays;
 
 public class HourGlassArray {
 

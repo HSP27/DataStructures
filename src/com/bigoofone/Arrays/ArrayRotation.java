@@ -1,4 +1,4 @@
-package com.bigoofone;
+package com.bigoofone.Arrays;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.bigoofone;
+package com.bigoofone.queue;
 
 // Java program for array implementation of queue
 
