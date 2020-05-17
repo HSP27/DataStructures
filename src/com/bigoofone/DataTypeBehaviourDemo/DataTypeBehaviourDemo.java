@@ -1,4 +1,4 @@
-package DataTypeBehaviourDemo;
+package com.bigoofone.DataTypeBehaviourDemo;
 
 import java.util.Arrays;
 
@@ -46,9 +46,11 @@ public class DataTypeBehaviourDemo {
                 + Arrays.toString(arr2));
         System.out.println(
                 "**Here value of arr1[1] is also affected ");
-
     }
-
-
-
 }
+
+
+
+
+
+

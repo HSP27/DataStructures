@@ -1,4 +1,4 @@
-package com.bigoofone;
+package com.bigoofone.LinkedList;
 
 
 class ReverseLinkedList {

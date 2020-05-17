@@ -1,4 +1,4 @@
-package com.bigoofone;
+package com.bigoofone.stack;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
